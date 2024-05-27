@@ -1,0 +1,22 @@
+employee_id ,first_name,last_name,email,phone_number,hire_date,department_id ,salary
+100,Steven,King,Steven.King@google.com,0812-9657-892,10/9/21,21,10000000
+101,Neena ,Lim,Neena .Lim@google.com,0812-6547-879,1/10/21,22,12000000
+102,Lex,King,Lex.King@google.com,0857-6789-888,4/13/20,23,13000000
+103,Alexander,Smith,Alexander.Smith@google.com,0812-6789-555,7/16/19,24,19000000
+104,Bruce,Lee,Bruce.Lee@google.com,0857-6789-889,10/17/18,25,21000000
+105,David,Frenk,David.Frenk@google.com,0812-6789-556,1/18/18,26,23450000
+106,Nina,Boo,Nina.Boo@google.com,0857-6789-890,4/21/17,27,90000789
+107,Lisa,Nam,Lisa.Nam@google.com,0812-6789-557,7/23/16,28,23000000
+108,Jisoo,Kim,Jisoo.Kim@google.com,0857-6789-891,10/25/15,29,24000000
+109,Jennie,Park,Jennie.Park@google.com,0812-6789-558,1/26/15,30,78906000
+110,Jungkook,Jeon,Jungkook.Jeon@google.com,0857-6789-892,4/29/14,31,45000000
+111,Suho,Lee,Suho.Lee@google.com,0812-6789-559,7/31/13,32,25000000
+112,Jin,Kim,Jin.Kim@google.com,0857-6789-893,11/1/12,33,56000000
+113,Rose,Ji,Rose.Ji@google.com,0812-6789-560,2/3/12,34,89000000
+114,Dior,Christian,Dior.Christian@google.com,0857-6789-894,5/7/11,35,65000000
+115,Chen,Kim,Chen.Kim@google.com,0812-6789-561,8/8/10,36,43000000
+116,Lee,Shim,Lee.Shim@google.com,0857-6789-895,11/9/09,37,21000000
+117,Sehun,Ji,Sehun.Ji@google.com,0812-6789-562,2/10/09,38,22000000
+118,RM,Namjoon,RM.Namjoon@google.com,0857-6789-896,5/14/08,39,36000000
+119,Jimin,Park,Jimin.Park@google.com,0812-6789-563,8/16/07,40,65000000
+120,Hasok,Jung,Hasok.Jung@google.com,0857-6789-897,11/17/06,41,21000000
